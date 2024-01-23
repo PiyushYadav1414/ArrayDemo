@@ -6,7 +6,6 @@ package arraydemo;
 
 /**
  *This has been modified by Piyush 23 Jan at 12:47pm
- * this is another comment added
  * @author Ronak
  */
 public class Student {
